@@ -1,7 +1,3 @@
-Here is a professional `README.md` description for your project, complete with citations as requested.
-
------
-
 # Crypto Volatility Prediction Engine (SVCJ Model)
 
 This is a cryptocurrency volatility prediction project based on implementing the **Stochastic Volatility with Co-Jumps (SVCJ)** framework. The model is designed to capture the unique characteristics of cryptocurrency markets, such as sudden price jumps and volatility clustering, primarily inspired by the research paper by **Huang, et al. (2022)**.
